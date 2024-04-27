@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<a href="https://662d71411f56e91d47e3c5db--peaceful-taiyaki-bf6793.netlify.app/"> Demo</a>
+<a href="https://662d71411f56e91d47e3c5db--peaceful-taiyaki-bf6793.netlify.app/"> 📍 Preview</a>
 ![screencapture-localhost-3000-2024-04-27-23_21_53](https://github.com/mriana9/Backroads_App/assets/91687711/7e773698-6c02-4c53-bb1c-e5834622608b)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
